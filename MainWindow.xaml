@@ -130,7 +130,7 @@
                            FontFamily="Fonts/#Dosis"
                            />
 
-                <TextBlock Text="Adventure"
+                <TextBlock Text="Journey"
                            Foreground="White"
                            FontSize="25"
                            FontWeight="Medium"
